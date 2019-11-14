@@ -1,0 +1,6 @@
+draco:DAGRON
+hermione:hermione
+luna:Quibbler
+ludo:tournament
+hagrid:creatures
+albus:albus
